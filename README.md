@@ -1,5 +1,4 @@
-# WEB-SCRAPING-PROJECT-BATCH4
-Final Capstone Project
+# Smartphone Website Data Extraction Project
 
 ## 📱 WinMobileWorld E-Commerce Scraper
 
