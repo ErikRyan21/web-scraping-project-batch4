@@ -1,7 +1,7 @@
 # WEB-SCRAPING-PROJECT-BATCH4
 Final Capstone Project
 
-📱 WinMobileWorld E-Commerce Scraper
+# 📱 WinMobileWorld E-Commerce Scraper
 
 An automated Python web scraper designed to crawl, extract, and compile product catalogs from the WinMobileWorld e-commerce store. It automatically handles pagination, dynamically strips formatting from price data, detects stock anomalies, and archives everything into localized Excel datasets.
 
