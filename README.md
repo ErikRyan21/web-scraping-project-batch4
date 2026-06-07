@@ -38,11 +38,11 @@ Simply execute the script file from your terminal, command line prompt, or chose
 ## 📊 Data Output Schema
 The final generated compilation file features an analysis-ready matrix containing three core data columns:
 
-| Product Name  | Product Price | Status 
-| :--- | :---: | :---: |
-| **Honor X6b (4/128GB)** | 339900 | Instock |
-| **Xiaomi Redmi 13 (8/128GB)** | 489900 | Out of stock | 
-| **Samsung Galaxy A15 (8/256GB)** | 619900 | Instock | 
+| Product Name | Product Price | Status |
+| :--- | :--- | :--- |
+| Honor X6b (4/128GB) | 339900 | Instock |
+| Xiaomi Redmi 13 (8/128GB) | 489900 | Out of stock | 
+| Samsung Galaxy A15 (8/256GB) | 619900 | Instock | 
 ...
 
 📌 Data Cleaning Note: String commas (,) and legal tender notation values (MMK) are systematically stripped out during runtime cleaning cycles to yield clean integers optimized for active analytical manipulation.
