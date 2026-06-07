@@ -1,11 +1,11 @@
 # WEB-SCRAPING-PROJECT-BATCH4
 Final Capstone Project
 
-# 📱 WinMobileWorld E-Commerce Scraper
+## 📱 WinMobileWorld E-Commerce Scraper
 
 An automated Python web scraper designed to crawl, extract, and compile product catalogs from the WinMobileWorld e-commerce store. It automatically handles pagination, dynamically strips formatting from price data, detects stock anomalies, and archives everything into localized Excel datasets.
 
-# 🚀 Features
+## 🚀 Features
 * Dynamic Pagination Tracking: Automatically detects the maximum number of pages from the homepage.
 
 * Smart Price Extraction: Correctly isolates promotional or markdown prices vs. normal retail prices.
@@ -16,7 +16,7 @@ An automated Python web scraper designed to crawl, extract, and compile product 
 
 * Progress Visualization: Uses tqdm to display a live, visual progress bar in your terminal.
 
-# 🛠️ Prerequisites & Installation
+## 🛠️ Prerequisites & Installation
 
 1. Initialize Your Environment
 
@@ -29,13 +29,13 @@ Install the required upstream packaging frameworks along with openpyxl (the back
 
 	pip install -r requirements.txt
 
-# 💻 How To Run
+## 💻 How To Run
 
 Simply execute the script file from your terminal, command line prompt, or chosen IDE environment (such as Thonny, VS Code, or IDLE):
 
 	python Main.py
 
-# 📊 Data Output Schema
+## 📊 Data Output Schema
 The final generated compilation file features an analysis-ready matrix containing three core data columns:
 
 | Product Name  | Product Price | Status 
@@ -47,7 +47,7 @@ The final generated compilation file features an analysis-ready matrix containin
 
 📌 Data Cleaning Note: String commas (,) and legal tender notation values (MMK) are systematically stripped out during runtime cleaning cycles to yield clean integers optimized for active analytical manipulation.
 
-# 📜 Disclaimer & Ethics
+## 📜 Disclaimer & Ethics
 
 ⚠️ Fair Use & Educational Scraping Directive
 
